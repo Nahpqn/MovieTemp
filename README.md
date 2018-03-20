@@ -1,2 +1,0 @@
-# MovieTemp
-Created with CodeSandbox
